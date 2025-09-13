@@ -1,0 +1,332 @@
+﻿[
+  {
+    "abbrev": "gn",
+
+    "name": "Genesis"
+  },
+  {
+    "abbrev": "ex",
+
+    "name": "Exodus"
+  },
+  {
+    "abbrev": "lv",
+
+    "name": "Leviticus"
+  },
+  {
+    "abbrev": "nm",
+
+    "name": "Numbers"
+  },
+  {
+    "abbrev": "dt",
+
+    "name": "Deuteronomy"
+  },
+  {
+    "abbrev": "js",
+
+    "name": "Joshua"
+  },
+  {
+    "abbrev": "jud",
+
+    "name": "Judges"
+  },
+  {
+    "abbrev": "rt",
+
+    "name": "Ruth"
+  },
+  {
+    "abbrev": "1sm",
+
+    "name": "1Samuel"
+  },
+  {
+    "abbrev": "2sm",
+
+    "name": "2Samuel"
+  },
+  {
+    "abbrev": "1kgs",
+
+    "name": "1Kings"
+  },
+  {
+    "abbrev": "2kgs",
+
+    "name": "2Kings"
+  },
+  {
+    "abbrev": "1ch",
+
+    "name": "1Chronicles"
+  },
+  {
+    "abbrev": "2ch",
+
+    "name": "2Chronicles"
+  },
+  {
+    "abbrev": "ezr",
+
+    "name": "Ezra"
+  },
+  {
+    "abbrev": "ne",
+
+    "name": "Nehemiah"
+  },
+  {
+    "abbrev": "et",
+
+    "name": "Esther"
+  },
+  {
+    "abbrev": "job",
+
+    "name": "Job"
+  },
+  {
+    "abbrev": "ps",
+
+    "name": "Psalms"
+  },
+  {
+    "abbrev": "prv",
+
+    "name": "Proverbs"
+  },
+  {
+    "abbrev": "ec",
+
+    "name": "Ecclesiastes"
+  },
+  {
+    "abbrev": "so",
+
+    "name": "SongofSolomon"
+  },
+  {
+    "abbrev": "is",
+
+    "name": "Isaiah"
+  },
+  {
+    "abbrev": "jr",
+
+    "name": "Jeremiah"
+  },
+  {
+    "abbrev": "lm",
+
+    "name": "Lamentations"
+  },
+  {
+    "abbrev": "ez",
+
+    "name": "Ezekiel"
+  },
+  {
+    "abbrev": "dn",
+
+    "name": "Daniel"
+  },
+  {
+    "abbrev": "ho",
+
+    "name": "Hosea"
+  },
+  {
+    "abbrev": "jl",
+
+    "name": "Joel"
+  },
+  {
+    "abbrev": "am",
+
+    "name": "Amos"
+  },
+  {
+    "abbrev": "ob",
+
+    "name": "Obadiah"
+  },
+  {
+    "abbrev": "jn",
+
+    "name": "Jonah"
+  },
+  {
+    "abbrev": "mi",
+
+    "name": "Micah"
+  },
+  {
+    "abbrev": "na",
+
+    "name": "Nahum"
+  },
+  {
+    "abbrev": "hk",
+
+    "name": "Habakkuk"
+  },
+  {
+    "abbrev": "zp",
+
+    "name": "Zephaniah"
+  },
+  {
+    "abbrev": "hg",
+
+    "name": "Haggai"
+  },
+  {
+    "abbrev": "zc",
+
+    "name": "Zechariah"
+  },
+  {
+    "abbrev": "ml",
+
+    "name": "Malachi"
+  },
+  {
+    "abbrev": "mt",
+
+    "name": "Matthew"
+  },
+  {
+    "abbrev": "mk",
+
+    "name": "Mark"
+  },
+  {
+    "abbrev": "lk",
+
+    "name": "Luke"
+  },
+  {
+    "abbrev": "jo",
+
+    "name": "John"
+  },
+  {
+    "abbrev": "act",
+
+    "name": "Acts"
+  },
+  {
+    "abbrev": "rm",
+
+    "name": "Romans"
+  },
+  {
+    "abbrev": "1co",
+
+    "name": "1Corinthians"
+  },
+  {
+    "abbrev": "2co",
+
+    "name": "2Corinthians"
+  },
+  {
+    "abbrev": "gl",
+
+    "name": "Galatians"
+  },
+  {
+    "abbrev": "eph",
+
+    "name": "Ephesians"
+  },
+  {
+    "abbrev": "ph",
+
+    "name": "Philippians"
+  },
+  {
+    "abbrev": "cl",
+
+    "name": "Colossians"
+  },
+  {
+    "abbrev": "1ts",
+
+    "name": "1Thessalonians"
+  },
+  {
+    "abbrev": "2ts",
+
+    "name": "2Thessalonians"
+  },
+  {
+    "abbrev": "1tm",
+
+    "name": "1Timothy"
+  },
+  {
+    "abbrev": "2tm",
+
+    "name": "2Timothy"
+  },
+  {
+    "abbrev": "tt",
+
+    "name": "Titus"
+  },
+  {
+    "abbrev": "phm",
+
+    "name": "Philemon"
+  },
+  {
+    "abbrev": "hb",
+
+    "name": "Hebrews"
+  },
+  {
+    "abbrev": "jm",
+
+    "name": "James"
+  },
+  {
+    "abbrev": "1pe",
+
+    "name": "1Peter"
+  },
+  {
+    "abbrev": "2pe",
+
+    "name": "2Peter"
+  },
+  {
+    "abbrev": "1jo",
+
+    "name": "1John"
+  },
+  {
+    "abbrev": "2jo",
+
+    "name": "2John"
+  },
+  {
+    "abbrev": "3jo",
+
+    "name": "3John"
+  },
+  {
+    "abbrev": "jd",
+
+    "name": "Jude"
+  },
+  {
+    "abbrev": "re",
+
+    "name": "Revelation"
+  }
+]
